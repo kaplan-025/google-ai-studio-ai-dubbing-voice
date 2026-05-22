@@ -1,0 +1,8 @@
+{
+  "name": "AI Video Dubber",
+  "description": "Translate and dub videos using Gemini AI and TTS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
